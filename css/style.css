@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+.input2 {
+    position: absolute;
+    left: 1075px;
+    top: 50px;
+}
+.input3 {
+    position: absolute;
+    left: 1250px;
+    top: 50px;
+}
+.input4 {
+    position: absolute;
+    left: 1150px;
+    top: 50px;
+}
+.input5 {
+    position: absolute;
+    left: 900px;
+    top: 50px;
+}
+.input6 {
+    position:absolute
+    left: 900px;
+    top: 60px;
+}
+.menu1 {
+    position: absolute;
+    left: 200px;
+}
+.nav-pills a{
+	color:white;
+}
